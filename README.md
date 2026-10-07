@@ -2,7 +2,7 @@
 
 Control 3D DNA and protein structures with your bare hands, using only a webcam and a browser.
 
-**Live demo:** https://hana-smehr.github.com/GeneHand/ (allow camera access)
+**Live demo:** https://github.com/Hana-smehr/GeneHand (allow camera access)
 
 > Work in progress. Built as a learning project at the intersection of genetics and computer vision.
 
